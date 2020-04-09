@@ -1,7 +1,8 @@
 # Predict-Employee-Turnover
 Predicting Employee Turnover with scikit-learn
 
-Project Objectives
+Dataset - Downloaded from kaggle made by HR of a company
+
 In this project my focus was on three learning objectives:
 
 - Apply decision trees and random forests with scikit-learn to classification problems.
@@ -50,3 +51,13 @@ The  project on Predict Employee Churn with Decision Trees and Random Forests is
     Many model forms describe the underlying impact of features relative to each other.
     Decision Tree models and Random Forest in scikit-learn, feature_importances_ attribute when fitted.
     Utilize this attribute to rank and plot the features.
+
+
+
+CERTIFICATE DETAILS
+Project: Predict Employee Turnover with scikit-learn
+Issuing Organization: Coursera
+Issue Date: April 2020
+Expiration Date: This certification does not expire
+Credential ID: 5M8WN2TE2B56
+Credential URL: https://www.coursera.org/account/accomplishments/certificate/5M8WN2TE2B56
