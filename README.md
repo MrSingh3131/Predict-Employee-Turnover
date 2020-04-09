@@ -2,6 +2,7 @@
 Predicting Employee Turnover with scikit-learn
 
 Dataset - Downloaded from kaggle made by HR of a company
+Platform Used - Google Colab
 
 In this project my focus was on three learning objectives:
 
@@ -55,9 +56,9 @@ The  project on Predict Employee Churn with Decision Trees and Random Forests is
 
 
 CERTIFICATE DETAILS
-Project: Predict Employee Turnover with scikit-learn
-Issuing Organization: Coursera
-Issue Date: April 2020
-Expiration Date: This certification does not expire
-Credential ID: 5M8WN2TE2B56
-Credential URL: https://www.coursera.org/account/accomplishments/certificate/5M8WN2TE2B56
+- Project: Predict Employee Turnover with scikit-learn
+- Issuing Organization: Coursera
+- Issue Date: April 2020
+- Expiration Date: This certification does not expire
+- Credential ID: 5M8WN2TE2B56
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/5M8WN2TE2B56
